@@ -5,14 +5,14 @@
   icon: 'fab fa-github-alt'
 -
   type: twitter
-  icon: 'fab fa-twitter'
+  icon: 'fab fa-linkedin'
 -
   type: email
   icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
 -
   type: rss
-  icon: 'fas fa-rss'
+  icon: 'fab fa-instagram'
   noblank: true
 
 # Uncomment and complete the url below to enable more contact options
