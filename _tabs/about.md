@@ -5,4 +5,6 @@ order: 4
 ---
 
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+Mmmm Well, it's a big story.
+
+Until content was added checkout my social accounts.
