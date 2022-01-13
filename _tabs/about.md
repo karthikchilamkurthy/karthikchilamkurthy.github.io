@@ -28,6 +28,10 @@ Please check my social accounts for my travel updates.
 
 There can never be a solo travel without photography, I like sunrises a lot and true to capture them a lot
 
+#### Reading and Watching
+
+I like content from psycology, History, Drama. Few authors i am currently are Nassim Taleb, Rolf Dobelli.
+
 
 
 
