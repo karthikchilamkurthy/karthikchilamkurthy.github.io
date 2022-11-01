@@ -14,7 +14,7 @@ Supply chain makes it affordable for consumers, profitable for companies in a gl
 
 Logistics is defined as the movement and storage of goods, services, and related information.
 
-logistics is essential in today’s global interconnected supply chains, where we can bring companies together through transportation, warehousing, and inventory management.
+logistics is very essential in today’s global interconnected supply chains, where we can bring companies together through transportation, warehousing, and inventory management.
 
 ## Warehousing Management  
 We need warehouses in a variety of different situations. One of them is to consolidate our raw material supply. So, let’s imagine a company that has two plants and three raw materials suppliers. Now we could shift from those raw material suppliers directly into both of our plants and it’ll be fine, but there is a better way and that is to use a warehouse in between them that receives raw materials from the three suppliers and then ships out, assembled assortments as needed
