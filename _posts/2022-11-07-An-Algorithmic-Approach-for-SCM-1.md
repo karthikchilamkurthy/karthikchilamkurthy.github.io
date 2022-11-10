@@ -25,7 +25,7 @@ Collaborative game theoretic approach ie., Shapley Value is used for Supply Chai
 
 ## **_Contianer Optimization_**
 
-Many Modles have been developed in Supply Chain ecosystem, Large number of algorithms where found applying heuristics to Supply Chain Network Design, Inventory Management, Distribution etc.
+Many Models have been developed in Supply Chain ecosystem, Large number of algorithms where found applying heuristics to Supply Chain Network Design, Inventory Management, Distribution etc.
 
 Solving Real life Supply Chain Problems using Mathematical Decomposition were not found in this Feild, Cloud Computing is found to be appropriate tool for hosting data, Algorithms etc.
 
