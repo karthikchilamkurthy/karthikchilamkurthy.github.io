@@ -114,7 +114,7 @@ The procedure has to be repeated for each of the features to get all Shapley val
 
 ## **_Execution_**
 
-For example, We have 2 contianers from Aukland to Brisbane: One 20 foot, one 40 food Container. Our model needs to decide the priority of items needs to sendm keeping many players in Consideraion.
+For example, We have 2 contianers from AUS to NZ: One 20 foot, one 40 food Container. Our model needs to decide the priority of items needs to sendm keeping many players in Consideraion.
 
 Following is the model:
 
