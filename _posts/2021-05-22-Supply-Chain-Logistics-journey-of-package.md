@@ -1,7 +1,7 @@
 ---
 title:  Supply Chain Logistics - Journey of Package
 author: Karthik Chilamkurty
-date: 2021-05-22 11:33:00 +0800
+date: 2022-05-22 11:33:00 +0800
 categories: [SCM, Transportation]
 tags: [SCM]
 image:

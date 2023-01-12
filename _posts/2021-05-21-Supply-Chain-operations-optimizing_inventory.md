@@ -1,7 +1,7 @@
 ---
 title:  Supply Chain Operations - Optimising Inventory
 author: Karthik Chilamkurty
-date: 2021-05-27 11:33:00 +0800
+date: 2022-05-27 11:33:00 +0800
 categories: [SCM, Inventory Management, statistics]
 tags: [SCM, Statistics]
 image:

@@ -1,7 +1,7 @@
 ---
 title:  Supply Chain Logistics - Control vs Integration
 author: Karthik Chilamkurty
-date: 2021-05-21 11:33:00 +0800
+date: 2022-05-21 11:33:00 +0800
 categories: [SCM, Inventory Management]
 tags: [SCM]
 image:
