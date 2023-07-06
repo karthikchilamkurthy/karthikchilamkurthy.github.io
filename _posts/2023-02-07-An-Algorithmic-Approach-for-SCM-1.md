@@ -1,7 +1,7 @@
 ---
 title:  An Algorithmic Approach for Supply Chain Optimization - Container Recommendation Using Game Theory.
 author: Karthik Chilamkurty
-date: 2022-11-07 11:33:00 +0800
+date: 2023-02-07 11:33:00 +0800
 categories: [SCM,Forecasting,Statistics]
 tags: [SCM]
 math: true
