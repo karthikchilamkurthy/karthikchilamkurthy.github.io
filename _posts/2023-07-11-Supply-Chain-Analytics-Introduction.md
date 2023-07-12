@@ -93,7 +93,7 @@ By Leveraging Predictive Analytics, Companies can anticipate customer demand, op
 
 - This model optimizes the back haul that reduces the fuel expenses on that particular Route
 
-## _Prescriptive Analytics_
+### _Prescriptive Analytics_
 
 Prescriptive Analytics is a type of Advanced analytics that optimizes decision-making by providing a recommended action, it works on the results given by Predictive Analytics.
 
