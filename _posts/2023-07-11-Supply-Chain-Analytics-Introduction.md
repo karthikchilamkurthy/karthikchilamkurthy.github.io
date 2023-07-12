@@ -25,114 +25,77 @@ For example as a store manager, when you request stock of particular shoe model 
 
 Huge amount of data is generated when we consider from production of raw materials followed by manufacturing, warehousing, transporting to sales, discounts, marketing of a product.
 
-With huge amount of data generated from different parties of Supply Chain(ref: <https://karthikchilamkurthy.github.io/categories/scm/>), it is bedrock to modern supply chain to analyze manually.
+With huge amount of data generated from different parties of Supply Chain(ref: <https://karthikchilamkurthy.github.io/categories/supply-chain-management/>), it is bedrock to modern supply chain to analyze manually.
 
 Supply chain analytics allow companies to gain insights and extract value from large amount of data throughout various supply chain disciplines to increase efficiency, responsiveness. Supply chain analytics is an essential element of Supply Chain Management(SCM).
 
-## **_Data Flow_**
+## **_Information Flow_**
 
-let's take the example of a Shoe making Group that has stores all around the world,
+Let's take the example of a Shoe making Group that has stores all around the world, From Manufacturing Unit to Customer the flow of product as below
 
-Pro
+- Factories manufacture product and replenish them to warehouses
+  + Planning teams to provide the Forecasts to support Production
+  + Transportation Planners Create the Schedules to Ship the orders
+  + Data generated from Third Party Vendors
 
+- Warehouse Load, pack and Distribute the orders to store
+  + Supply Planners send orders to the manufacturing units using ERP 
+  + External Data sources were used if Third Party Vendors are used as part of warehousing and packing
 
+- Retail Stores receives the orders
+  + Distribution Planners Create orders
+  + Sales team Collect sales and marketing data from stores
 
-## **_Contianer Optimization_**
+With the data available, An important goal is to optimize flow of goods by improving forecasting, efficiency and more responsive to customer needs, 
 
-Many Models have been developed in Supply Chain ecosystem, Large number of algorithms where found applying heuristics to Supply Chain Network Design, Inventory Management, Distribution etc.
+## **_Types of Supply chain Analytics_**
 
-Solving Real life Supply Chain Problems using Mathematical Decomposition were not found in this Feild, Cloud Computing is found to be appropriate tool for hosting data, Algorithms etc.
+Supply chain Analytics is involving Different set of methods and tools that use supply chain information to identify, react and plan the flow of goods.
 
-For optimizing any Supply Chain, There are many players that commonly make up to final decision such as predections, Recommendation.
+## ***_Descriptive Analytics_***
 
-Taking Example of NZ Container Recommendation, 
+A set of tools, mostly visualization tools are used in Descriptive Analytics, The Final deliverable is usually a set of dashboards
 
-![Desktop View](https://cdn.jsdelivr.net/gh/karthikchilamkurthy/Machine_learning@main/Data%20Sources/images/serviceflyermap.jpeg){: width="450" .normal}
+It helps in interpret what has happened, detect incidents and measure operational performance
 
-- The Current Maritime Network between AUS and NZ remains Market centre for many industries for shipping their Goods.
+Variety of statistical methods are involved in understanding the Distribution of data
 
-- Dialy there are number of container Ships hop between these ports and parameters of this transportation paradigm are modeled using greedy algorithms to depict a monumental opportunity to rationalize costs, improve efficiency
+Taking example of shoe making group, The company gathers millions of data points from Transportation Vendors, including information about location, Fuel charge, back haul charge, Km's driven, Truck type, Shipments, origin, destination etc.
 
-- There are many Components arrive at various activites interlinking at a   same time.
+- Transportation Control tower to analyze fuel, back haul metrics for all deliveries across globe
 
+## ***_Diagnostic Analytics_***
 
+It is crucial to figure out what's behind if something happened, for example Sudden spike in demand, Change in transportation expenses. Company can acquire insights from the pattern of core cause trends they have noticed in their data by applying diagnostic analytics.
 
-#### **_Real World Scenario_** 
+Diagnostic analytics is also termed as "Root Cause Analysis", it requires previous data, It makes use of variety of methods, including probability theory, Regression analysis, time-series analysis and more.
 
-Considering Maritime Network between Australia and Newzeland, 
+When performing Diagnostic analytics, with the assistance of technology analysts go deep into the data in search of patterns, trends, hidden correlation between variables, detect and explain outliers.
 
-**_ShipSchedule_** is taken from orginization with Data Such as,
+- Sales team identify a spike in amount charged in particular route by insights provided by Descriptive Analytics team, After Exploratory data analysis, they find the attributes most highly correlated with store orders, region and timing living in Northern states
 
-- **_Item_**: Item Requested for shipping.
-- **_Source_**: Source Port.
-- **_Destination_**: Destination Port.
-- **_Orders_**: Number of Orders requested.
-- **_Waitingtime_**: Number of days order is being requested.
-- **_HoldingCosts_**: Cost incurred for holding the Order in Warehouse. 
-- **_pallets_**: Number of pallets Available. 
-- **_VesselType_**: Type of vessel that Material can fit.
+- From there, The Team could conduct research with the specific transportation route and learn about demand in sales, causes of demand etc
 
-**_Ship Information_** is taken from Shipping companies, 
+## ***_Predictive Analytics_***
 
-- **_NumberOfVessels_**: Number of Vessels Available for shipping goods betweens AUS ports and NZ Ports.
-- **_TypeOfVessels_**: Type of Vessel Available ex: Dry, Refrigerated etc.
-- **_PortCongestionPeriod_**: Delay information in case of Disruptions, Congestions etc.
+The Idea behind Predictive Analytics is to make use of past data to predict future events or behaviors, It is one of the most popular branches of the statistics within the data analytics field.
 
+By Leveraging Predictive Analytics, Companies can anticipate customer demand, optimize inventory, and reduce costs, it utilizes data and advanced algorithms like regression, classification techniques, etc. to optimize the network.
 
-**_Customs Information_**, Priority shipping Goods etc information is taken from the Audit team (which are typically a outliers!).
+- Considering the hindsight from Diagnostic Analytics team, Predictive Analytics team modeled a Machine learning algorithm using feature engineering, Statistical modeling and fine-tuned the model.
 
-The Model should Recommend the Priority of items that needs to be shipped over Network from one port to another.
+- This model optimizes the back haul that reduces the fuel expenses on that particular Route
 
-Recommendation Should Optimize, (Please refer SCM Blogs for more understanding)
+## ***_Prescriptive Analytics_***
 
-- **_Cost_**: Costs incured related to orders and their payments, storage of raw material or Products, Transportation, and waste.
-- **_Inventory_**: Model should Optimize least quantity of inventory needed across the whole Supply Chain Network.
-- **_Network_**: Model should be able to execute supply chain strategies at reduced cost and risk.
+Prescriptive Analytics is a type of Advanced analytics that optimizes decision-making by providing a recommended action, it works on the results given by Predictive Analytics.
 
+Predictive Analytics help in understanding what future demands are likely to be, while Prescriptive Analytics analyzes the likely impact based on decisions, Prescriptive Analytics identifies and advices on possible outcomes before decisions are made.
 
-#### **_Solution_**
+Prescriptive Analytics evaluate the potential risks and change their course of action accordingly, this lowers the chances for human bias or error.
 
-_Game theory_ studies interactive decision-making, where the outcome for each participant or Variable depends on the actions of other Variables.
+Specific techniques used in prescriptive analytics include simulation, game theory, decision analysis methods.
 
-In this Scenario, Game Theroy is A greedy algorithm adopts a solution path and interpretable Model, Can scale exponentially to arrive Optimal Model across various Interlinking activities.
+- Considering the foresight provided by Predictive Analytics, Prescriptive Analytics made an efficient route planning based on likely changes in traffic, blockers and other factors
 
-## **_Game Theroy_**
-
-From Game Theory, A proven methodology adopted for this Model and illustrates the incremental gains that are related to each participant in the Scenario. 
-
-_Shapley value_ is a mono variate outcome in cooperative games, as postulated by Shapley S Lloyd way back-in 1953, is a method for assigning payouts to players depending on their contribution to the total payout. Players cooperate in a coalition and receive a certain profit from this cooperation
-
-The “players” are the feature values of the Ship Data _Orders_, _Waitingtime_ etc . that collaborate to receive the gain (= predict Priority of item to sent).
-
-Our Scenario, we evaluate the contribution of the _Orders_ feature value when it is added to a coalition of _WaitingPeriod_ and _HoldingCosts_. We simulate that only _WaitingPeriod_, _Orders_ and _HoldingCosts_ are in a coalition by randomly drawing another _Item_ from the data and using its value for the _pallets_ feature. The value 100 pallets was replaced by the randomly drawn 350 pallets. Then we predict the Priority of the _Item_ with this combination. In a second step, we remove _Orders_ from the coalition by replacing it with a random value of the _Volume_ feature from the randomly drawn _Item_(200). In the example it was 50M3, but it could have been _Orders_ again. We predict the _Item_ price for the coalition of _WaitingPeriod_ and _HoldingCosts_(100). The contribution of _Orders_ was 200-100 = 100. This estimate depends on the values of the randomly drawn _Item_ that served as a “donor” for the _Orders_ and _WaitingPeriod_ feature values. We will get better estimates if we repeat this sampling step and average the contributions.
-
-_Shapley value_ is the average marginal contribution of a feature value across all possible coalitions, We repeat this computation for all possible coalitions, The Shapley value is the average of all the marginal contributions to all possible coalitions. The computation time increases exponentially with the number of features.
-
-The Shapley value is defined via a value function _val_ of players in S.
-
-![Desktop View](https://cdn.jsdelivr.net/gh/karthikchilamkurthy/Machine_learning@main/Data%20Sources/images/sc1.png){: width="300" .normal}
-
-where S is a subset of the features used in the model, x is the vector of feature values of the instance to be explained and p the number of features.
-
-All possible coalitions (sets) of feature values have to be evaluated with and without the j-th feature to calculate the exact Shapley value
-
-![Desktop View](https://cdn.jsdelivr.net/gh/karthikchilamkurthy/Machine_learning@main/Data%20Sources/images/sc2.png){: width="250" .normal}
-
-All these differences are averaged and result in:
-
-![Desktop View](https://cdn.jsdelivr.net/gh/karthikchilamkurthy/Machine_learning@main/Data%20Sources/images/sc3.png){: width="250" .normal}
-
-Averaging implicitly weighs samples by the probability distribution of X.
-
-The procedure has to be repeated for each of the features to get all Shapley values.
-
-## **_Execution_**
-
-For example, We have 2 contianers from AUS to NZ: One 20 foot, one 40 food Container. Our model needs to decide the priority of items needs to sendm keeping many players in Consideraion.
-
-Following is the model:
-
-![Desktop View](https://cdn.jsdelivr.net/gh/karthikchilamkurthy/Machine_learning@main/Data%20Sources/images/gif-created.gif){: width="1000" .normal}
-
-
-
+- This model optimizes the route that foreseeing the impact that may have potential risks in future
