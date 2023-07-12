@@ -69,7 +69,7 @@ Taking example of shoe making group, The company gathers millions of data points
 
 ### _Diagnostic Analytics_
 
-![Desktop View](https://cdn.jsdelivr.net/gh/karthikchilamkurthy/Machine_learning@main/Data%20Sources/images/diagnostoc.png): width="400" height= '400'}
+![Desktop View](https://cdn.jsdelivr.net/gh/karthikchilamkurthy/Machine_learning@main/Data%20Sources/images/diagnostoc.png){: width="400" height= '400'}
 
 It is crucial to figure out what's behind if something happened, for example Sudden spike in demand, Change in transportation expenses. Company can acquire insights from the pattern of core cause trends they have noticed in their data by applying diagnostic analytics.
 
@@ -83,7 +83,7 @@ When performing Diagnostic analytics, with the assistance of technology analysts
 
 ### _Predictive Analytics_
 
-![Desktop View](https://cdn.jsdelivr.net/gh/karthikchilamkurthy/Machine_learning@main/Data%20Sources/images/predective.png): width="400" height= '400'}
+![Desktop View](https://cdn.jsdelivr.net/gh/karthikchilamkurthy/Machine_learning@main/Data%20Sources/images/predective.png){: width="400" height= '400'}
 
 The Idea behind Predictive Analytics is to make use of past data to predict future events or behaviors, It is one of the most popular branches of the statistics within the data analytics field.
 
@@ -107,7 +107,7 @@ Specific techniques used in prescriptive analytics include simulation, game theo
 
 - This model optimizes the route that foreseeing the impact that may have potential risks in future
 
-![Desktop View](https://cdn.jsdelivr.net/gh/karthikchilamkurthy/Machine_learning@main/Data%20Sources/images/types.png): width="400" height= '400'}
+![Desktop View](https://cdn.jsdelivr.net/gh/karthikchilamkurthy/Machine_learning@main/Data%20Sources/images/types.png){: width="400" height= '400'}
 
 
 The ultimate goal of Supply chain analytics is to create an efficient supply network!
