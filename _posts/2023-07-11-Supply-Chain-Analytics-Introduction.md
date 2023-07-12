@@ -6,7 +6,7 @@ categories: [Supply Chain Analytics]
 tags: [Supply Chain Management]
 math: true
 image:
-  src: https://cdn.jsdelivr.net/gh/karthikchilamkurthy/Machine_learning@main/Data%20Sources/images/heading.png
+  src:
 ---
 
 ## **_What is Supply Chain Analytics?_**
