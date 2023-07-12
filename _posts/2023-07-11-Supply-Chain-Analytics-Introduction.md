@@ -17,7 +17,7 @@ We rarely consider the origin of its materials, how they were manufactured, mode
 
 Each of above question have answers and each answer can be written or extracted in a form of data.
 
-For example as a store manager, when you request stock of particular shoe model from factory, there are many factors to be considered, following are few factors need to be analyzed for your request.
+For example as a store manager, when you order stock of particular product, there are many factors to be considered, following are few factors need to be analyzed for your order.
 
 - **_Warehouse_**: Is Stock available at factory warehouse?, if available, How much stock is needed considering forecast?
 - **_Production_**: If there is spike in demand for that particular model, How many shoes needs to manufacture?
@@ -25,7 +25,7 @@ For example as a store manager, when you request stock of particular shoe model 
 
 Huge amount of data is generated when we consider from production of raw materials followed by manufacturing, warehousing, transporting to sales, discounts, marketing of a product.
 
-With huge amount of data generated from different parties of Supply Chain(ref: <https://karthikchilamkurthy.github.io/categories/supply-chain-management/>), it is bedrock to modern supply chain to analyze manually.
+With huge amount of data generated from different parties of Supply Chain [**ref**]: <https://karthikchilamkurthy.github.io/categories/supply-chain-management/>, it is bedrock to modern supply chain to analyze manually.
 
 Supply chain analytics allow companies to gain insights and extract value from large amount of data throughout various supply chain disciplines to increase efficiency, responsiveness. Supply chain analytics is an essential element of Supply Chain Management(SCM).
 
@@ -55,7 +55,7 @@ Supply chain Analytics is involving Different set of methods and tools that use 
 ### _Descriptive Analytics_
 
 ![Desktop View](https://cdn.jsdelivr.net/gh/karthikchilamkurthy/Machine_learning@main/Data%20Sources/images/descriptvie.png
-){: width="450" .normal)
+){: width="400" height= '400'}
 
 A set of tools, mostly visualization tools are used in Descriptive Analytics, The Final deliverable is usually a set of dashboards
 
@@ -69,7 +69,7 @@ Taking example of shoe making group, The company gathers millions of data points
 
 ### _Diagnostic Analytics_
 
-![Desktop View](https://cdn.jsdelivr.net/gh/karthikchilamkurthy/Machine_learning@main/Data%20Sources/images/diagnostoc.png){: width="450" .normal)
+![Desktop View](https://cdn.jsdelivr.net/gh/karthikchilamkurthy/Machine_learning@main/Data%20Sources/images/diagnostoc.png): width="400" height= '400'}
 
 It is crucial to figure out what's behind if something happened, for example Sudden spike in demand, Change in transportation expenses. Company can acquire insights from the pattern of core cause trends they have noticed in their data by applying diagnostic analytics.
 
@@ -83,7 +83,7 @@ When performing Diagnostic analytics, with the assistance of technology analysts
 
 ### _Predictive Analytics_
 
-![Desktop View](https://cdn.jsdelivr.net/gh/karthikchilamkurthy/Machine_learning@main/Data%20Sources/images/predective.png){: width="450" .normal}
+![Desktop View](https://cdn.jsdelivr.net/gh/karthikchilamkurthy/Machine_learning@main/Data%20Sources/images/predective.png): width="400" height= '400'}
 
 The Idea behind Predictive Analytics is to make use of past data to predict future events or behaviors, It is one of the most popular branches of the statistics within the data analytics field.
 
@@ -107,7 +107,7 @@ Specific techniques used in prescriptive analytics include simulation, game theo
 
 - This model optimizes the route that foreseeing the impact that may have potential risks in future
 
-![Desktop View](https://cdn.jsdelivr.net/gh/karthikchilamkurthy/Machine_learning@main/Data%20Sources/images/types.png){: width="450" .normal}
+![Desktop View](https://cdn.jsdelivr.net/gh/karthikchilamkurthy/Machine_learning@main/Data%20Sources/images/types.png): width="400" height= '400'}
 
 
 The ultimate goal of Supply chain analytics is to create an efficient supply network!
