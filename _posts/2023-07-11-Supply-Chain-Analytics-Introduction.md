@@ -2,7 +2,7 @@
 title:  Supply Chain Analytics - Introduction.
 author: Karthik Chilamkurty
 date: 2023-07-11 11:33:00 +0800
-categories: [Analytics]
+categories: [Supply Chain Analytics]
 tags: [Supply Chain Management]
 math: true
 image:
