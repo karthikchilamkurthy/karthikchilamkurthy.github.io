@@ -2,8 +2,8 @@
 title:  Supply Chain Operations - Optimising Inventory
 author: Karthik Chilamkurty
 date: 2022-05-27 11:33:00 +0800
-categories: [SCM, Inventory Management, statistics]
-tags: [SCM, Statistics]
+categories: [SCM]
+tags: [Supply Chain Management]
 image:
   src: https://cdn.jsdelivr.net/gh/karthikchilamkurthy/Machine_learning@main/Data%20Sources/images/1__hM4uxJvw3V35dirbpbktvA.jpeg
 ---
@@ -13,7 +13,7 @@ In supply chain, operation refers to the process of transformation. We transform
 When we look at how to make operations better, we focus on four primary goals. Cost, quality, speed, and flexibility.
 
 Now how do companies make their operations better?  
-**_optimisation_**, you have to define your objective. It may be to minimize cost, increase speed, achieve perfect quality or more flexibility, nevertheless, you have certain parameters that you can change. You change the way you use machinery.  
+**_Optimisation_**, you have to define your objective. It may be to minimize cost, increase speed, achieve perfect quality or more flexibility, nevertheless, you have certain parameters that you can change. You change the way you use machinery.  
 But, you cannot change them too much. There are certain constraints placed on your operations.
 
 ### Lean Inventory
@@ -25,7 +25,7 @@ EOQ model **_Economic order quantity_** (**_EOQ_**) is the ideal order quantity 
 
 ## Holding Cost
 
-*   Capital costs:which is we take into account the cost of money.
+*   Capital costs: which are we take into account the cost of money.
 *   Inventory operational cost: If we take into account the service costs which are taxes and insurance on inventory.
 *   Risks costs: Things may go out of style, they break, or they expire.
 
@@ -82,7 +82,7 @@ Step 1: Calculate the Combined Standard Deviation of Lead Time and Demand
 ![Desktop View](https://cdn.jsdelivr.net/gh/karthikchilamkurthy/Machine_learning@main/Data%20Sources/images/1__rZ5xhbX__ZzyP7M7If84irg.png){: width="150" .normal}
 
 Step 2: Pick your desired Service Level  
-This step depends on how much inventory you can carry to prevent a stockout. The higher the service level the more inventory you need to carry. Most companies pick a service level between 90% and 99%
+This step depends on how much inventory you can carry to prevent a stock out. The higher the service level the more inventory you need to carry. Most companies pick a service level between 90% and 99%
 
 ![Desktop View](https://cdn.jsdelivr.net/gh/karthikchilamkurthy/Machine_learning@main/Data%20Sources/images/1__QgDCBtRHrK1Tcvx1LZunQw.png){: width="350" .normal}
 

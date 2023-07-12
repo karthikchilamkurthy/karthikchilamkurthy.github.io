@@ -2,8 +2,8 @@
 title:  Supply Chain Analytics - Introduction.
 author: Karthik Chilamkurty
 date: 2023-07-11 11:33:00 +0800
-categories: [Introduction]
-tags: [SUPPLY_CHAIN_ANALYTICS]
+categories: [Analytics]
+tags: [Supply Chain Management]
 math: true
 image:
   src: https://cdn.jsdelivr.net/gh/karthikchilamkurthy/Machine_learning@main/Data%20Sources/images/ship1.jpeg
@@ -11,33 +11,31 @@ image:
 
 ## **_What is Supply Chain Analytics?_**
 
-Let's take a example of buying a product, In our case let's take pair of shoes!
+Let's take an example of buying a product, In our case let's take the pair of shoes!
 
-We rarely consider the orign of its materials, how they were manufactured, modes they were transported.
+We rarely consider the origin of its materials, how they were manufactured, modes they were transported.
 
 Each of above question have answers and each answer can be written or extracted in a form of data.
 
-For example as a store manager, when you request stock of particular shoe model from factory, there are many factors to be considered, following are few factors need to be analysed for your request.
+For example as a store manager, when you request stock of particular shoe model from factory, there are many factors to be considered, following are few factors need to be analyzed for your request.
 
 - **_Warehouse_**: Is Stock available at factory warehouse?, if available, How much stock is needed considering forecast?
-- **_production_**: If there is spike in demand for that particular model, How many shoes needs to manufactured?
+- **_Production_**: If there is spike in demand for that particular model, How many shoes needs to manufacture?
 - **_Transportation_**: What is the best mode to transport considering amount of orders?
 
 Huge amount of data is generated when we consider from production of raw materials followed by manufacturing, warehousing, transporting to sales, discounts, marketing of a product.
 
-With huge amount of data generated from different parts of Supply Chain(ref: <https://karthikchilamkurthy.github.io/categories/scm/>), it is bedrock to modern supply chain to analyse manually.
+With huge amount of data generated from different parties of Supply Chain(ref: <https://karthikchilamkurthy.github.io/categories/scm/>), it is bedrock to modern supply chain to analyze manually.
 
 Supply chain analytics allow companies to gain insights and extract value from large amount of data throughout various supply chain disciplines to increase efficiency, responsiveness. Supply chain analytics is an essential element of Supply Chain Management(SCM).
 
-## **_Abstract_**
+## **_Data Flow_**
 
-Container Freight is a Ecosystem that organize the external suppliers, distributors, vessel management, disruptions, Port Management etc,.
+let's take the example of a Shoe making Group that has stores all around the world,
 
-There is always a need of scalable greedy algorithm for optimizing Supply Chain Design, Planning and Execution.
+Pro
 
-There are Number of Components that collate to derive Supply Chain Optimization Model.
 
-Collaborative game theoretic approach ie., Shapley Value is used for Supply Chain Design and Planning.
 
 ## **_Contianer Optimization_**
 

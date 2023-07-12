@@ -2,8 +2,8 @@
 title:  Supply Chain Logistics - Journey of Package
 author: Karthik Chilamkurty
 date: 2022-05-22 11:33:00 +0800
-categories: [SCM, Transportation]
-tags: [SCM]
+categories: [SCM]
+tags: [Supply Chain Management]
 image:
   src: https://cdn.jsdelivr.net/gh/karthikchilamkurthy/Machine_learning@main/Data%20Sources/images/1__35Vx5FgxkYDC0r4zfgahDw.jpeg
 ---

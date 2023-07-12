@@ -2,8 +2,8 @@
 title:  An Algorithmic Approach for Supply Chain Optimization - Container Recommendation Using Game Theory.
 author: Karthik Chilamkurty
 date: 2023-02-07 11:33:00 +0800
-categories: [SCM,Forecasting,Statistics]
-tags: [SCM]
+categories: [SCM]
+tags: [Supply Chain Management]
 math: true
 image:
   src: https://cdn.jsdelivr.net/gh/karthikchilamkurthy/Machine_learning@main/Data%20Sources/images/ship1.jpeg
@@ -11,7 +11,7 @@ image:
 
 ## **_About_**
 
-I've Been Working as a Strategist Engineer in Digitalising Logistics of a Food Chain Industry, We try to drew Parametres of Supply chain Process and derive the holistic approch to improve Efficiency and Optimize costs.
+I've Been Working as a Strategist Engineer in Digitalizing Logistics of a Food Chain Industry, We try to draw Parameters of Supply chain Process and derive the holistic approach to improve Efficiency and Optimize costs.
 
 ## **_Abstract_**
 
@@ -19,7 +19,7 @@ Container Freight is a Ecosystem that organize the external suppliers, distribut
 
 There is always a need of scalable greedy algorithm for optimizing Supply Chain Design, Planning and Execution.
 
-There are Number of Components that collate to derive Supply Chain Optimization Model.
+There are a Number of Components that collate to derive Supply Chain Optimization Model.
 
 Collaborative game theoretic approach ie., Shapley Value is used for Supply Chain Design and Planning.
 
@@ -27,19 +27,19 @@ Collaborative game theoretic approach ie., Shapley Value is used for Supply Chai
 
 Many Models have been developed in Supply Chain ecosystem, Large number of algorithms where found applying heuristics to Supply Chain Network Design, Inventory Management, Distribution etc.
 
-Solving Real life Supply Chain Problems using Mathematical Decomposition were not found in this Feild, Cloud Computing is found to be appropriate tool for hosting data, Algorithms etc.
+Solving Real life Supply Chain Problems using Mathematical Decomposition were not found in this Field, Cloud Computing is found to be appropriate tool for hosting data, Algorithms etc.
 
-For optimizing any Supply Chain, There are many players that commonly make up to final decision such as predections, Recommendation.
+For optimizing any Supply Chain, There are many players that commonly make up to final decision such as predictions, Recommendation.
 
 Taking Example of NZ Container Recommendation, 
 
 ![Desktop View](https://cdn.jsdelivr.net/gh/karthikchilamkurthy/Machine_learning@main/Data%20Sources/images/serviceflyermap.jpeg){: width="450" .normal}
 
-- The Current Maritime Network between AUS and NZ remains Market centre for many industries for shipping their Goods.
+- The Current Maritime Network between AUS and NZ remains Market center for many industries for shipping their Goods.
 
-- Dialy there are number of container Ships hop between these ports and parameters of this transportation paradigm are modeled using greedy algorithms to depict a monumental opportunity to rationalize costs, improve efficiency
+- Daily there are a number of container Ships hop between these ports and parameters of this transportation paradigm are modeled using greedy algorithms to depict a monumental opportunity to rationalize costs, improve efficiency
 
-- There are many Components arrive at various activites interlinking at a   same time.
+- There are many Components arrive at various activities interlinking at a same time.
 
 
 
@@ -47,7 +47,7 @@ Taking Example of NZ Container Recommendation,
 
 Considering Maritime Network between Australia and Newzeland, 
 
-**_ShipSchedule_** is taken from orginization with Data Such as,
+**_ShipSchedule_** is taken from organization with Data Such as,
 
 - **_Item_**: Item Requested for shipping.
 - **_Source_**: Source Port.
@@ -60,18 +60,18 @@ Considering Maritime Network between Australia and Newzeland,
 
 **_Ship Information_** is taken from Shipping companies, 
 
-- **_NumberOfVessels_**: Number of Vessels Available for shipping goods betweens AUS ports and NZ Ports.
+- **_NumberOfVessels_**: Number of Vessels Available for shipping goods between AUS ports and NZ Ports.
 - **_TypeOfVessels_**: Type of Vessel Available ex: Dry, Refrigerated etc.
 - **_PortCongestionPeriod_**: Delay information in case of Disruptions, Congestions etc.
 
 
-**_Customs Information_**, Priority shipping Goods etc information is taken from the Audit team (which are typically a outliers!).
+**_Customs Information_**, Priority shipping Goods etc. information is taken from the Audit team (which are typically a outlier!).
 
 The Model should Recommend the Priority of items that needs to be shipped over Network from one port to another.
 
 Recommendation Should Optimize, (Please refer SCM Blogs for more understanding)
 
-- **_Cost_**: Costs incured related to orders and their payments, storage of raw material or Products, Transportation, and waste.
+- **_Cost_**: Costs incurred related to orders and their payments, storage of raw material or Products, Transportation, and waste.
 - **_Inventory_**: Model should Optimize least quantity of inventory needed across the whole Supply Chain Network.
 - **_Network_**: Model should be able to execute supply chain strategies at reduced cost and risk.
 

@@ -2,8 +2,8 @@
 title:  Supply Chain Planning - Statistical Forecasting
 author: Karthik Chilamkurty
 date: 2022-06-07 11:33:00 +0800
-categories: [SCM,Forecasting, Statistics]
-tags: [SCM]
+categories: [SCM]
+tags: [Supply Chain Management]
 image:
   src: https://cdn.jsdelivr.net/gh/karthikchilamkurthy/Machine_learning@main/Data%20Sources/images/1__DWgAqRhrUqqzYSJtV8zYgg.jpeg
 ---
