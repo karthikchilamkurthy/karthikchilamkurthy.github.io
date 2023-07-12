@@ -52,7 +52,7 @@ With the data available, An important goal is to optimize flow of goods by impro
 
 Supply chain Analytics is involving Different set of methods and tools that use supply chain information to identify, react and plan the flow of goods.
 
-## ***_Descriptive Analytics_***
+### _Descriptive Analytics_
 
 ![Desktop View](https://cdn.jsdelivr.net/gh/karthikchilamkurthy/Machine_learning@main/Data%20Sources/images/descriptvie.png
 ){: width="450" .normal)
@@ -67,7 +67,7 @@ Taking example of shoe making group, The company gathers millions of data points
 
 - Transportation Control tower to analyze fuel, back haul metrics for all deliveries across globe
 
-## ***_Diagnostic Analytics_***
+### _Diagnostic Analytics_
 
 ![Desktop View](https://cdn.jsdelivr.net/gh/karthikchilamkurthy/Machine_learning@main/Data%20Sources/images/diagnostoc.png){: width="450" .normal)
 
@@ -81,7 +81,7 @@ When performing Diagnostic analytics, with the assistance of technology analysts
 
 - From there, The Team could conduct research with the specific transportation route and learn about demand in sales, causes of demand etc
 
-## ***_Predictive Analytics_***
+### _Predictive Analytics_
 
 ![Desktop View](https://cdn.jsdelivr.net/gh/karthikchilamkurthy/Machine_learning@main/Data%20Sources/images/predective.png){: width="450" .normal}
 
@@ -93,7 +93,7 @@ By Leveraging Predictive Analytics, Companies can anticipate customer demand, op
 
 - This model optimizes the back haul that reduces the fuel expenses on that particular Route
 
-## ***_Prescriptive Analytics_***
+## _Prescriptive Analytics_
 
 Prescriptive Analytics is a type of Advanced analytics that optimizes decision-making by providing a recommended action, it works on the results given by Predictive Analytics.
 
