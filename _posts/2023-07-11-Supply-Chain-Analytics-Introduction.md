@@ -48,7 +48,7 @@ Let's take the example of a Shoe making Group that has stores all around the wor
 
 With the data available, An important goal is to optimize flow of goods by improving forecasting, efficiency and more responsive to customer needs, 
 
-## **_Types of Supply chain Analytics_**
+## **_Types of Supply Chain Analytics_**
 
 Supply chain Analytics is involving Different set of methods and tools that use supply chain information to identify, react and plan the flow of goods.
 
@@ -65,21 +65,27 @@ Variety of statistical methods are involved in understanding the Distribution of
 
 Taking example of shoe making group, The company gathers millions of data points from Transportation Vendors, including information about location, Fuel charge, back haul charge, Km's driven, Truck type, Shipments, origin, destination etc.
 
-- Transportation Control tower to analyze fuel, back haul metrics for all deliveries across globe
+- Transportation Control tower Dashboard to analyze fuel, back haul metrics for all deliveries across Stores, Warehouses and plants
+
+- Descriptive Analytics provide Blindsight across Supply chain to track shipment, Detect incidents, Operational performance etc.
 
 ### _Diagnostic Analytics_
 
 ![Desktop View](https://cdn.jsdelivr.net/gh/karthikchilamkurthy/Machine_learning@main/Data%20Sources/images/diagnostoc.png){: width="400" height= '400'}
 
-It is crucial to figure out what's behind if something happened, for example Sudden spike in demand, Change in transportation expenses. Company can acquire insights from the pattern of core cause trends they have noticed in their data by applying diagnostic analytics.
+It is crucial to figure out what's behind if something happened, for example Sudden spike in demand, Change in transportation expenses.
 
 Diagnostic analytics is also termed as "Root Cause Analysis", it requires previous data, It makes use of variety of methods, including probability theory, Regression analysis, time-series analysis and more.
 
-When performing Diagnostic analytics, with the assistance of technology analysts go deep into the data in search of patterns, trends, hidden correlation between variables, detect and explain outliers.
+When performing Diagnostic analytics, with the assistance of technology analysts go deep into the data in search of patterns, trends, hidden correlation between variables, detect and explain outliers, With diagnostic analytics Company can acquire insights from the pattern of core cause trends.
 
-- Sales team identify a spike in amount charged in particular route by insights provided by Descriptive Analytics team, After Exploratory data analysis, they find the attributes most highly correlated with store orders, region and timing living in Northern states
+Taking example of shoe making group, The company gathers millions of data points from Transportation Vendors, including information about location, Fuel charge, back haul charge, Km's driven, Truck type, Shipments, origin, destination etc. 
+
+- Sales team identify a spike in amount charged in particular route by facts provided by Descriptive Analytics team, After Exploratory data analysis, they find the attributes most highly correlated with store orders, region and timing living in Northern states
 
 - From there, The Team could conduct research with the specific transportation route and learn about demand in sales, causes of demand etc
+
+- Diagnostic Analytics team Provide Hindsight about Root Cause of Incident
 
 ### _Predictive Analytics_
 
@@ -91,7 +97,9 @@ By Leveraging Predictive Analytics, Companies can anticipate customer demand, op
 
 - Considering the hindsight from Diagnostic Analytics team, Predictive Analytics team modeled a Machine learning algorithm using feature engineering, Statistical modeling and fine-tuned the model.
 
-- This model optimizes the back haul that reduces the fuel expenses on that particular Route
+- This model optimizes the back haul that reduces the fuel expenses on that particular Route.
+
+- Predictive Analytics team is responsible for providing insight about what likely to happen in the future.
 
 ### _Prescriptive Analytics_
 
@@ -103,9 +111,11 @@ Prescriptive Analytics evaluate the potential risks and change their course of a
 
 Specific techniques used in prescriptive analytics include simulation, game theory, decision analysis methods.
 
-- Considering the foresight provided by Predictive Analytics, Prescriptive Analytics team made an efficient route planning based on likely changes in traffic, blockers and other factors
+- Considering the Insights provided by Predictive Analytics, Prescriptive Analytics team made an efficient route planning based on likely changes in traffic, blockers and other factors
 
 - This model optimizes the route that foreseeing the impact that may have potential risks in future
+
+- Prescriptive Analytics team work on simulations to evaluate Model and act according to the current trends which is foresight
 
 ![Desktop View](https://cdn.jsdelivr.net/gh/karthikchilamkurthy/Machine_learning@main/Data%20Sources/images/types.png){: width="400" height= '400'}
 
