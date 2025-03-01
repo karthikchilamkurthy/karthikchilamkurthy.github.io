@@ -10,7 +10,7 @@ image:
 
 Every modern company, lives, thrives by their ability to match supply with demand.
 
-Supply chain makes it affordable for consumers, profitable for companies in a global economy.
+Supply chains makes it affordable for consumers, profitable for companies in a global economy.
 
 Logistics is defined as the movement and storage of goods, services, and related information.
 
