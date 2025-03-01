@@ -107,7 +107,7 @@ PLATFORMS
   x86_64-darwin-20
 
 DEPENDENCIES
-  html-proofer (~> 3.18.f)
+  html-proofer (~> 3.18.5)
   jekyll-theme-chirpy!
   tzinfo (~> 1.2)
   tzinfo-data
