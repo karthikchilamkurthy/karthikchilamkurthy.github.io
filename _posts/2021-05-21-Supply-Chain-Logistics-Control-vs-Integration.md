@@ -85,7 +85,7 @@ Because you can spread your safety stock over a larger area. The risk of stockin
 
 Another interesting way to think about it is that you can use your transportation network as a storage device
 
-It is a nice rule of thumb for estimating the changes in overall inventory as a result of changing the number of warehouses. These calculations are assuming that nothing else changes.
+It's a nice rule of thumb for estimating the changes in overall inventory as a result of changing the number of warehouses. These calculations are assuming that nothing else changes.
 
 X2 = (X1) \* √ (n2/n1)
 
