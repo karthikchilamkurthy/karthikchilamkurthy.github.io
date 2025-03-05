@@ -22,6 +22,7 @@ For a planner to make informed decisions, two things are essential:
 
 **_Intelligence_**
 **_Visibility of data**_
+
 Decision Intelligence platforms do not simply rely on AI models—they also incorporate advanced data engineering. This combination allows planners to gain visibility into surrounding data. For example, a transportation manager can view data from various sources such as warehouse stock levels, truck schedules, customer orders, and empty hauls. With an AI model running on top of this data, intelligent recommendations are generated, enabling better decision-making.
 
 In the next section, we'll explore how this integration works with concrete examples, showing how AI models can assist in optimizing supply chain operations in real-time.
