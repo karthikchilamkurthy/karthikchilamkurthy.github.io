@@ -20,10 +20,21 @@ At the heart of these processes, AI and Decision Intelligence play a crucial rol
 
 For a planner to make informed decisions, two things are essential:
 
-**_Intelligence_**
-**_Visibility of data_**
+- **_Intelligence_**
+
+- **_Visibility of data_**
 
 Decision Intelligence platforms do not simply rely on AI models—they also incorporate advanced data engineering. This combination allows planners to gain visibility into surrounding data. For example, a transportation manager can view data from various sources such as warehouse stock levels, truck schedules, customer orders, and empty hauls. With an AI model running on top of this data, intelligent recommendations are generated, enabling better decision-making.
 
+## **_Uses of Decision Intelligence Platform_**
+
+Cost Optimization: Improves cost-efficiency by optimizing pricing, inventory, and logistics.
+Loss Prevention: Minimizes financial loss through fraud detection, damage monitoring, and waste reduction.
+Risk Management: Identifies and mitigates risks through disruption forecasting and supplier risk assessment.
+Decision-Making in Uncertainty: Enables faster, data-driven decisions during market shifts or disruptions.
+Performance Monitoring: Tracks key performance indicators for continuous improvement and real-time adjustments.
+
+
 In the next section, we'll explore how this integration works with concrete examples, showing how AI models can assist in optimizing supply chain operations in real-time.
 The ultimate goal of Supply chain analytics is to create an efficient supply network!
+
