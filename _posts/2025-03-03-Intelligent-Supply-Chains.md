@@ -28,11 +28,15 @@ Decision Intelligence platforms do not simply rely on AI models—they also inco
 
 ## **_Uses of Decision Intelligence Platform_**
 
-Cost Optimization: Improves cost-efficiency by optimizing pricing, inventory, and logistics.
-Loss Prevention: Minimizes financial loss through fraud detection, damage monitoring, and waste reduction.
-Risk Management: Identifies and mitigates risks through disruption forecasting and supplier risk assessment.
-Decision-Making in Uncertainty: Enables faster, data-driven decisions during market shifts or disruptions.
-Performance Monitoring: Tracks key performance indicators for continuous improvement and real-time adjustments.
+- **_Cost Optimization_**: Improves cost-efficiency by optimizing pricing, inventory, and logistics.
+
+- **_Loss Prevention_**: Minimizes financial loss through fraud detection, damage monitoring, and waste reduction.
+
+- **_Risk Management_**: Identifies and mitigates risks through disruption forecasting and supplier risk assessment.
+
+- **_Decision-Making in Uncertainty_**: Enables faster, data-driven decisions during market shifts or disruptions.
+
+- **_Performance Monitoring_**: Tracks key performance indicators for continuous improvement and real-time adjustments.
 
 
 In the next section, we'll explore how this integration works with concrete examples, showing how AI models can assist in optimizing supply chain operations in real-time.
