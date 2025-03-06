@@ -44,14 +44,35 @@ In the next section, we'll explore how this integration works with concrete exam
 
 ## **_Decision intelligent Production Planning_**
 
-Let's examine Supply production planning for a shoe company, comparing traditional actions with intelligent decision-making processes. We'll explore how decision intelligence platforms influence network operations and the impact they have on optimizing production strategies.
+Let's examine the process of a supply chain planner and compare how it works in a traditional setup versus how a Decision Intelligence (DI) platform improves and simplifies each step of the process. We'll see how the DI platform enhances the workflow, making it more efficient and easier to manage.
+
+Traditional Supply Chain Planner:
+
+- **_Demand, Production & Inventory Coordination_**: Aligns production schedules with demand forecasts and ensures optimal inventory levels across warehouses and production sites to avoid stockouts or overstocking
+
+- **_Minimizing Losses, Preventing Wastage & Warehouse Management_**: Ensures goods are properly stored, minimizing damage and ensuring efficient order fulfillment.
+
+- **_Collaboration, Forecasting & Continuous Adjustments_**: Works closely with demand planners and production teams to ensure alignment and flexibility in response to demand shifts and market changes.
+
+Supply Chain Planner Using DI platform:
+
+- **_Demand, Production & Inventory Coordination_**: Automatically integrates real-time data from sales, inventory, and production to generate accurate, up-to-date demand forecasts. This allows for dynamic production schedules and real-time inventory optimization.
+
+- **_Minimizing Losses, Preventing Wastage & Warehouse Management_**: Automates production schedule adjustments to reduce waste, ensures optimal storage conditions, and provides predictive analytics for better warehouse management, improving order fulfillment and reducing spoilage or damage.
+
+- **_Collaboration, Forecasting & Continuous Adjustments_**: Facilitates seamless collaboration across departments by providing real-time data and predictive insights to all teams involved. The platform continuously adjusts production and inventory plans based on demand fluctuations and market trends.
 
 
-| **Process Area**            | **Traditional Process**                                                   | **DI PLATFROM**                                                                            |
-|-----------------------------|---------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| **Demand Forecasting**       | Based on historical data and manually adjustmenting the<br/>need to check | Dynamic predictions using multiple data sources, with actionable recommendations.          |
-| **Inventory Management**     | Manual tracking and reorder points                                        | Real-time inventory monitoring with AI-driven optimization and recommendations.            |
-| **Production Scheduling**    | Manually planned, limited flexibility                                     | Optimized, dynamic scheduling based on real-time data and AI-driven insights.              |
-| **Supplier Coordination**    | Relies on past supplier performance and manual checks                     | Predicts risks and optimizes supplier performance based on data, recommending alternatives. |
-| **Logistics and Distribution** | Static schedules, based on historical data                                | Real-time optimization of routes and delivery schedules with AI-powered recommendations.   |
+| **Aspect**                    | **Traditional Supply Chain Process**                                                                                     | **Decision Intelligence (DI) Platform**                                                                                                           |
+|-------------------------------|--------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Cost Optimization**          | Data is scattered across multiple systems, requiring manual coordination. Decision-making can be slow and inefficient,    | DI platform centralizes and visualizes data, enabling proactive, data-driven decisions. AI-powered insights help optimize cost efficiency,     |
+|                               | leading to higher costs due to lack of visibility.                                                                         | reducing the need for manual stakeholder engagement.                                                                                             |
+| **Loss Prediction**            | Losses due to wastage, inefficiencies, and supply chain risks are often addressed reactively, with planners relying on      | DI platform uses real-time data and AI-driven insights to predict losses, suggest proactive solutions (e.g., production adjustments), and         |
+|                               | past data and experience.                                                                                                 | mitigate risks before they impact operations.                                                                                                   |
+| **Weak Link Analysis**         | Identifying weak links (e.g., delays in production, warehouse inefficiencies) is often done manually or after the fact,    | DI platform offers real-time analysis of interconnected processes, identifying and addressing weak links across production, transportation,      |
+|                               | leading to delays and inefficiencies.                                                                                      | and customer service, optimizing the entire supply chain.                                                                                       |
+| **Performance Monitoring**     | KPIs are tracked manually, and performance adjustments are made reactively, leading to inefficiencies and missed            | DI platform continuously monitors performance using AI tools, providing real-time feedback and actionable insights to optimize supply chain     |
+|                               | opportunities for improvement.                                                                                             | efficiency and make continuous improvements.                                                                                                     |
+| **Stakeholder Alignment**      | Coordination with stakeholders (e.g., production sites, warehouse teams) is manual, leading to miscommunication and        | DI platform integrates seamlessly with enterprise systems (e.g., SAP, OMP, o9), translating decisions into actionable steps, ensuring alignment  |
+|                               | delayed execution of decisions.                                                                                            | and smooth execution across all stakeholders in real-time.                                                                                      |
 
