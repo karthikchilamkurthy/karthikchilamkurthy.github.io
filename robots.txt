@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://karthikchilamkurthy.github.io//sitemap.xml
