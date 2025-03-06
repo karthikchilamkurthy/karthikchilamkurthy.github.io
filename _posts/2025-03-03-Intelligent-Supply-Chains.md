@@ -1,5 +1,5 @@
 ---
-title: Decision Intelligent Supply Chains, Efficiency Story.
+title: Decision Intelligent Supply Chains: Efficiency Story.
 author: Karthik Chilamkurty
 date: 2025-03-05 11:33:00 +0800
 categories: [Supply Chain Analytics]
@@ -71,7 +71,7 @@ Let's examine the process of a supply chain planner and compare how it works in 
 | **Performance Monitoring**        | KPIs are tracked manually, and performance adjustments are made reactively, <br/>leading to inefficiencies and missed opportunities for improvement. | DI platform continuously monitors performance using AI tools, <br/>providing real-time feedback and actionable insights to optimize supply chain efficiency <br/>and make continuous improvements. |
 | **Stakeholder Alignment**         | Coordination with stakeholders (e.g., production sites, warehouse teams) is manual,<br/> leading to miscommunication and delayed execution of decisions. | DI platform integrates seamlessly with enterprise systems (e.g., SAP, OMP, o9), <br/>translating decisions into actionable steps, ensuring alignment and<br/> smooth execution across all stakeholders in real-time. |
 
-## **_END_**
+## **_Next steps_**
 
 This efficiency story highlights how Decision Intelligence (DI) platforms revolutionize the supply network, bringing unparalleled improvements to operational decision-making. By leveraging real-time data, advanced algorithms, and predictive analytics, DI platforms optimize supply chain processes, enhance collaboration, and drive cost efficiency.
 
