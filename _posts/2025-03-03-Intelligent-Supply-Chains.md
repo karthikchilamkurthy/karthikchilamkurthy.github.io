@@ -42,4 +42,16 @@ The ultimate goal of Supply chain analytics is to create an efficient supply net
 
 In the next section, we'll explore how this integration works with concrete examples, showing how AI models can assist in optimizing supply chain operations in real-time.
 
+## **_Decision intelligent Production Planning_**
+
+Let's examine Supply production planning for a shoe company, comparing traditional actions with intelligent decision-making processes. We'll explore how decision intelligence platforms influence network operations and the impact they have on optimizing production strategies.
+
+
+| **Process Area**            | **Traditional Process**                                 | **Decision AI Model**                                     |
+|-----------------------------|---------------------------------------------------------|----------------------------------------------------------|
+| **Demand Forecasting**       | Based on historical data and manual adjustments         | Dynamic predictions using multiple data sources, with actionable recommendations. |
+| **Inventory Management**     | Manual tracking and reorder points                      | Real-time inventory monitoring with AI-driven optimization and recommendations. |
+| **Production Scheduling**    | Manually planned, limited flexibility                   | Optimized, dynamic scheduling based on real-time data and AI-driven insights. |
+| **Supplier Coordination**    | Relies on past supplier performance and manual checks   | Predicts risks and optimizes supplier performance based on data, recommending alternatives. |
+| **Logistics and Distribution** | Static schedules, based on historical data             | Real-time optimization of routes and delivery schedules with AI-powered recommendations. |
 
