@@ -1,5 +1,5 @@
 ---
-title: Decision Intelligent Supply Chains: Efficiency Story.
+title: Decision Intelligent Supply Chains, Efficiency Story.
 author: Karthik Chilamkurty
 date: 2025-03-05 11:33:00 +0800
 categories: [Supply Chain Analytics]
