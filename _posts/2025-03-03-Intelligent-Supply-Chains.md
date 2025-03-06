@@ -46,7 +46,7 @@ In the next section, we'll explore how this integration works with concrete exam
 
 Let's examine the process of a supply chain planner and compare how it works in a traditional setup versus how a Decision Intelligence (DI) platform improves and simplifies each step of the process. We'll see how the DI platform enhances the workflow, making it more efficient and easier to manage.
 
-Traditional Supply Chain Planner:
+### **_Traditional Supply Chain Planner_**:
 
 - **_Demand, Production & Inventory Coordination_**: Aligns production schedules with demand forecasts and ensures optimal inventory levels across warehouses and production sites to avoid stockouts or overstocking
 
@@ -54,7 +54,7 @@ Traditional Supply Chain Planner:
 
 - **_Collaboration, Forecasting & Continuous Adjustments_**: Works closely with demand planners and production teams to ensure alignment and flexibility in response to demand shifts and market changes.
 
-Supply Chain Planner Using DI platform:
+### **_Supply Chain Planner Using DI platform_**:
 
 - **_Demand, Production & Inventory Coordination_**: Automatically integrates real-time data from sales, inventory, and production to generate accurate, up-to-date demand forecasts. This allows for dynamic production schedules and real-time inventory optimization.
 
